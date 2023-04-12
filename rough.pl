@@ -1,0 +1,1 @@
+computeMax(Num1,Num2,Max):- (Num1>Num2 -> Max=Num1 ; Max=Num2).
